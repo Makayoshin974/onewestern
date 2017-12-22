@@ -1,0 +1,39 @@
+body{
+	background: #fafe1d;
+	color: black;
+}
+h2{
+	
+	text-align: center;
+	
+}
+.fa-id-card{
+	position: relative;
+	top: 6px;
+	left: 147px;
+
+
+}
+.fa-credit-card{
+	position: relative;
+	top: 6px;
+	left: 109px;
+
+}
+.fa-user{
+	position: relative;
+	top: 6px;
+	left: 82px;
+
+}
+.p-3 {
+    padding: 0.9rem!important;
+}
+.logo{
+	opacity: 0.8;
+
+	
+}
+.westlogo{
+
+}
