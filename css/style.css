@@ -10,20 +10,20 @@ h2{
 .fa-id-card{
 	position: relative;
 	top: 6px;
-	left: 147px;
+	left: 80px;
 
 
 }
 .fa-credit-card{
 	position: relative;
 	top: 6px;
-	left: 109px;
+	left: 41px;
 
 }
 .fa-user{
 	position: relative;
 	top: 6px;
-	left: 82px;
+	left: 20px;
 
 }
 .p-3 {
@@ -37,3 +37,11 @@ h2{
 .westlogo{
 
 }
+.d-block{
+	
+	height: 500px;
+}
+svg {
+  margin: auto;
+}
+
